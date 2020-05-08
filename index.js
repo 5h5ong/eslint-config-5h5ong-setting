@@ -39,6 +39,6 @@ module.exports = {
     '@typescript-eslint/interface-name-prefix': 'off',
     'jsx-a11y/click-events-have-key-events': 'off',
     'jsx-a11y/no-static-element-interactions': 'off',
-    'jsx-one-expression-per-line': 'off',
+    'react/jsx-one-expression-per-line': 'off',
   },
 };
