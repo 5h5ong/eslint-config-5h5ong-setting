@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-5h5ong-setting",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "eslint 개인 설정",
   "main": "index.js",
   "author": "5h5ong",
